@@ -5,12 +5,12 @@ namespace ifra{
 }
 int main(){
 
-    // typedef bool one;
+    typedef bool one;
     // typedef string ifra;
     // ifra name="malik";
-    // one two=true;
+    one two=true;
     cout<<ifra::name<<endl;
-    // cout<<two<<endl;
+    cout<<two<<endl;
     return 0;
 
 }
